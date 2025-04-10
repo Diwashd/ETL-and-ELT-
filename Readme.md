@@ -1,6 +1,4 @@
----
-## 🧪 ETL & ELT Data Pipelines – Complete Summary (Extended)
----
+## 🧪 ETL & ELT Data Pipelines
 
 ### 📌 **1. Manual Testing of a Data Pipeline**
 
