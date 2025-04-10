@@ -1,11 +1,5 @@
-Great catch! The initial summary **focused on foundational and production-level ETL techniques**, **testing**, and **orchestration**, but it **didn’t explicitly include advanced ETL techniques**, nor **details on building, deploying, and maintaining pipelines** as structured topics.
-
-Let me now **extend and complete the summary** by including those **missing sections** for a full picture:
-
 ---
-
 ## 🧪 ETL & ELT Data Pipelines – Complete Summary (Extended)
-
 ---
 
 ### 📌 **1. Manual Testing of a Data Pipeline**
